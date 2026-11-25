@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+# dataset: https://github.com/saravale1957/Impacto-IA-estudiantes/blob/main/dataset_limpio.csv
 
 st.set_page_config(page_title="Uso de IA en estudiantes", layout="wide")
 
